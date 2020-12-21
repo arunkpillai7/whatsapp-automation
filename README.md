@@ -3,7 +3,7 @@ Hi guys , the python file here is the easiest way to automate ur whatsapp messag
 
 
 
-usage
+#Linux_installation_guide
 
 apt install python3-pip
 
