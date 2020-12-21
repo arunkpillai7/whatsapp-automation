@@ -9,4 +9,8 @@ apt install python3-pip
 
 pip install pywhatkit
 
-git clone
+git clone https://github.com/arunkpillai7/whatsapp-automation.git
+
+chmod +x python.py
+
+./python.py
