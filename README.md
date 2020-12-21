@@ -11,6 +11,6 @@ pip install pywhatkit
 
 git clone https://github.com/arunkpillai7/whatsapp-automation.git
 
-chmod +x python.py
+chmod +x whatsapp.py
 
-./python.py
+./whatsapp.py
