@@ -1,5 +1,7 @@
 import pywhatkit
-print(' You have to open the whatsapp web version in your default browser')
+print(' You have to open the whatsapp web version in your default browser and have to install python &  pywhatkit')
+print('if this is not working well try commands ; sudo apt install python3-pip && pip install pywhatkit')
+
 print(' ')
 print(' ')
 
